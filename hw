@@ -1,5 +1,0 @@
-#Brandon Wu
-#brandon.wu47@myhunter.cuny.edu
-!/bin/sh
-echo "hello!”
-echo "Greeting from $USER”
